@@ -1,26 +1,27 @@
-# SR CONTABÉIS
+## SR CONTABÉIS
 
-## Informações do Projeto
+### Informações do Projeto
 - **Job (Trello):** SRC-001-SITE-AJUSTE
-- **Status:** Publicado 
+- **Status:** Publicado
 
-## Domínio & Hospedagem
-- **Domínio principal:** [https://dominio.com.br](https://www.srcontab.com.br/)
+### Domínio & Hospedagem
+- **Domínio principal:** https://www.srcontab.com.br
 - **Linguagens:** HTML e CSS
 - **Hospedagem:** SFTP
 - **Responsável pela hospedagem:** Terceiros (Técnico da empresa)
 
-## Sobre o Projeto
-SRContabéis é um escritório de contabilidade na qual desenvolvemos uma landing page de captação.
+### Sobre o Projeto
+SR Contabéis é um escritório de contabilidade para o qual foi desenvolvida
+uma landing page com foco em captação de leads e contato comercial.
 
-## Estrutura do Site
+### Estrutura do Site
 - Home
-- Serviços 
+- Serviços
 - Recomendações
 - FAQ
 - Contato
 
-## Responsáveis
+### Responsáveis
 - **Atendimento:** Karol
 - **Criação / Design:** Mari
 - **Desenvolvimento / Implementação:** Lipe e Gabi
